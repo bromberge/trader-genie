@@ -1,0 +1,2 @@
+Date,Ticker,Strategy,Entry,Stop,Target,Risk,Confidence,Reasoning
+2025-07-31,NVDA,Breakout,920.5,892.88,994.14,$200,High,Breakout above 20-day high with volume spike

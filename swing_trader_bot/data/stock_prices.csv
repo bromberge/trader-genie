@@ -1,0 +1,46 @@
+Date,Ticker,Open,High,Low,Close,Volume
+2025-07-31,AAPL,"Ticker
+AAPL    208.380005
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+AAPL    209.839996
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+AAPL    207.160004
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+AAPL    207.570007
+Name: 2025-07-31 00:00:00, dtype: float64",64700006
+2025-07-31,TSLA,"Ticker
+TSLA    319.584991
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+TSLA    321.369904
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+TSLA    306.100006
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+TSLA    308.269989
+Name: 2025-07-31 00:00:00, dtype: float64",84232351
+2025-07-31,NVDA,"Ticker
+NVDA    182.929993
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+NVDA    183.289993
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+NVDA    175.929993
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+NVDA    177.869995
+Name: 2025-07-31 00:00:00, dtype: float64",216885458
+2025-07-31,MSFT,"Ticker
+MSFT    555.224976
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+MSFT    555.450012
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+MSFT    531.900024
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+MSFT    533.5
+Name: 2025-07-31 00:00:00, dtype: float64",51220706
+2025-07-31,AMZN,"Ticker
+AMZN    235.774994
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+AMZN    236.529999
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+AMZN    231.399994
+Name: 2025-07-31 00:00:00, dtype: float64","Ticker
+AMZN    234.110001
+Name: 2025-07-31 00:00:00, dtype: float64",95980422

@@ -1,0 +1,2 @@
+Date,Ticker,Strategy,Entry_Price,Executed_Price,Stop,Target,Confidence,Status,Result,Days_Held,Wallet_Before,Wallet_After
+2025-07-31,NVDA,Breakout,920.5,923.28,892.88,994.14,High,CLOSED,LOSS,1,10000,10000
